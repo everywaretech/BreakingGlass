@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Breaking Glass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cook">Cook</string>
+    <string name="currently_cooking">Currently cooking for %d people</string>
+	<string name="step_01">Put &#189; l of water into a pot</string>
+	<string name="step_02">Add 1 kg of sugar</string>
+	<string name="step_02b">When water is hot enough</string>
+	<string name="step_03">Add syrup and blue colouring. Let it boil</string>
+	<string name="step_04">Pour it onto a tray and let it cool down</string>
+	<string name="step_04b">Wait around 4 hours</string>
+	<string name="step_05">Break it with a hammer</string>
+	<string name="step_06">Your blue meth-candy is ready</string>
+	<string name="step_06b">Tap to start selling it</string>
+	<string name="pinkman_01">YO! We just sold everything! Let\'s cook again!</string>
+	<string name="pinkman_02">Hey! Mr. White! C\'mon!</string>
+	<string name="pinkman_03">Science!</string>
+	<string name="just_now">just now</string>
+	
+</resources>
